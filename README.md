@@ -1,5 +1,5 @@
 # Time_Series Forecasting using Arima
-# Predicting the attack during World War 2 using temperature
+# Predicting the attack during World War 2 using climate data
 
 In this project, we are trying to predict if an attack is likely to occur & if so who is the attacker. We are predicting based on temperature of the region
 
